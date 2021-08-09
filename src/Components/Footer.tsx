@@ -13,7 +13,7 @@ function Footer(): JSX.Element {
           Github
         </a>
         {' - '}{' '}
-        <a target='_blank' rel='noopener noreferrer' href='https://vanshdh.vddev.repl.co'>
+        <a target='_blank' rel='noopener noreferrer' href='https://vanshdh.vercel.app'>
           VD Inc.
         </a>
       </p>
