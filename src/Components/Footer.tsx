@@ -4,13 +4,17 @@ function Footer(): JSX.Element {
   return (
     <footer className='mt-auto text-center'>
       <p>
-        Build with React, based on{' '}
+        Build with React by VD Inc., based on{' '}
         <a target='_blank' rel='noopener noreferrer' href='https://github.com/kozakdenys/qr-code-styling'>
           QR Code Styling JS library.
         </a>
         {' - '}{' '}
-        <a target='_blank' rel='noopener noreferrer' href='https://github.com/awran5/custom-qr-code-styling'>
+        <a target='_blank' rel='noopener noreferrer' href='https://github.com/Vansh186'>
           Github
+        </a>
+        {' - '}{' '}
+        <a target='_blank' rel='noopener noreferrer' href='https://vanshdh.vddev.repl.co'>
+          VD Inc.
         </a>
       </p>
     </footer>
