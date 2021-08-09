@@ -10,7 +10,7 @@ function Header(): JSX.Element {
               <span className='fw-bolder'>QR</span> CODE GENERATOR
             </h1>
           </div>
-          <a target='_blank' rel='noopener noreferrer' href='https://github.com/awran5/custom-qr-code-styling'>
+          <a target='_blank' rel='noopener noreferrer' href='https://github.com/Vansh186'>
             <svg
               xmlns='http://www.w3.org/2000/svg'
               width='24'
